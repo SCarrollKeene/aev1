@@ -9,7 +9,7 @@ body {
     content: '';
     height: 100vh;
     width: 100%;
-    background-image: url("../edit.jpg");
+    background-image: url("../img/edit.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
