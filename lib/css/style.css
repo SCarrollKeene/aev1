@@ -79,6 +79,18 @@ body {
     color: #f4f4f4;
   }
 
+  .tTheme {
+    color: #2Ca096;
+  }
+
+  .a {
+    text-decoration: none;
+  }
+
+  .a:hover {
+    color: #f4f4f4;
+  }
+
   .bg-purp {
       background: rgba(51, 13, 122, 0.9);
       color: #f4f4f4;
@@ -90,6 +102,10 @@ body {
   
   footer p {
     margin: 0;
+  }
+
+  #footer-inner {
+    font-size: 18px;
   }
   
   /* Small Screens */
